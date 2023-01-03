@@ -1,5 +1,5 @@
 ⍝ 1: Are You a Bacteria?
-⍝ A DNA string is composed of the letters ‘A’,’C’,’G’ and ‘T’. The GC-content of a DNA string is given by the percentage of the symbols in the string that are either ‘C’ or ‘G’. Very small discrepancies in GC-content can be used to distinguish species; for instan`ce, most bacteria have a GC-content significantly higher than 50%.
+⍝ A DNA string is composed of the letters ‘A’,’C’,’G’ and ‘T’. The GC-content of a DNA string is given by the percentage of the symbols in the string that are either ‘C’ or ‘G’. Very small discrepancies in GC-content can be used to distinguish species; for instance, most bacteria have a GC-content significantly higher than 50%.
 
 ⍝ Write a function that:
 
