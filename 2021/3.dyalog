@@ -15,4 +15,7 @@
 ⍝ 3 2{↑(∨/(0=(⍺|¨⊂⍵)))/¨↓⍵} 1 2 3 4 5 6
 
 ⍝ FINAL ANSWER: (if you want it as a vector)
-3 2{(0=(⍺|¨⊂⍵))/¨↓⍵} 1 2 3 4 5 6
+⍝ 3 2{(0=(⍺|¨⊂⍵))/¨↓⍵} 1 2 3 4 5 6
+
+⍝ FINAL FINAL ANSWER: No need for ¨ as | is a a scalar function. 
+3 2{(0=(⍺|⊂⍵))/¨↓⍵} 1 2 3 4 5 6
